@@ -27,7 +27,7 @@ Based on our analysis:
 - % Overall Passing chanfed from 90.948012 to 90.630324 
 
 ![old_new_chool_summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/old_new_school_summary.png)
-![new_new_School_Summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/new_new_School_Summary.png)
+![new_new_school_Summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/new_new_school_summary.png)
 
 ###### Thomas High School Performance 
 - By replacing the ninth graders scores for Thomas High School our data has slightly changed but not enough to overturn the major key takeaways.
