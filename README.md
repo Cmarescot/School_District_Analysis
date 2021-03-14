@@ -23,6 +23,9 @@ Based on our analysis:
 - % Passing Reading changed from 97.308869 to 97.018739  
 - % Overall Passing chanfed from 90.948012 to 90.630324 
 
+![old_district_summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/old_district_summary.png)
+![new_district_summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/new_district_summary.png)
+
 ###### Thomas High School Performance 
 - By replacing the ninth graders scores for Thomas High School our data has slightly changed but not enough to overturn the major key takeaways.
 - Thomas High School still has the second % overall passing of 90.630324 
