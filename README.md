@@ -15,6 +15,9 @@ Based on our analysis:
 - % Passing Reading has decreased .3 percent from 86% in our previous analysis to 85.7% in our current anaylsis
 - % Overall Passing decreased .1 percent from 65% in our previous analysis to 64.9 in our current analysis
 
+![old_district_summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/old_district_summary.png)
+![new_district_summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/new_district_summary.png)
+
 ###### School Summary Results
 - The Thomas High School metrics in the school summary column have all changed with the exeption of the Total students, Total School Budget and Per Student Budget columns
 - Average Math score changed from 83.418349 to 83.350937 
@@ -23,13 +26,16 @@ Based on our analysis:
 - % Passing Reading changed from 97.308869 to 97.018739  
 - % Overall Passing chanfed from 90.948012 to 90.630324 
 
-![old_district_summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/old_district_summary.png)
-![new_district_summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/new_district_summary.png)
+![old_school_summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/old_school_summary.png)
+![new_School_summary.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/new_School_summary.png)
 
 ###### Thomas High School Performance 
 - By replacing the ninth graders scores for Thomas High School our data has slightly changed but not enough to overturn the major key takeaways.
 - Thomas High School still has the second % overall passing of 90.630324 
 - Thomas High School over all passing percentage slightly decreased from 90.948012 to 90.630324
+
+![old_thomas_performance.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/old_thomas_performance.png)
+![new_thomas_performance.png](https://github.com/Cmarescot/School_District_Analysis/blob/main/Resources/new_thomas_performance.png)
 
 ###### Ninth Grade Score Replacement Affects
 Replacing the ninth grade scores has:
